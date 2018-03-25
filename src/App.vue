@@ -2,6 +2,7 @@
   <div class="app">
     <Header />
     <Content />
+    <Footer />
   </div>
 </template>
 
@@ -9,13 +10,15 @@
 import HelloWorld from './components/HelloWorld';
 import Header from "./components/Header";
 import Content from "./components/Content";
+import Footer from "./components/Footer";
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
     Header,
-    Content
+    Content,
+    Footer
   }
 }
 </script>

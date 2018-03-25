@@ -2,18 +2,21 @@
   <div class="content">
     <contentIntro />
     <contentCases />
+    <content3 />
   </div>
 </template>
 
 <script>
   import contentIntro from "./ContentIntro";
-  import contentCases from "./contentCases";
+  import contentCases from "./ContentCases";
+  import content3 from "./Content3"
 
     export default {
         name: "content",
       components: {
         contentIntro,
-        contentCases
+        contentCases,
+        content3
       }
     }
 </script>

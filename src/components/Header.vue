@@ -29,6 +29,8 @@
 
   .title {
     font-size: 2rem;
+    padding-left: 4rem;
+    background: url("../assets/logo.svg") left center/contain no-repeat;
   }
 
   .buttons {

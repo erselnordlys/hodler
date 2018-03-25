@@ -7,7 +7,7 @@
           React is a "javascript library for building user interfaces" from the fine folks at Facebook & Instagram.
           It strictly focuses on the "V" in your MVC applications, and touts a blazing fast virtual DOM diff implementation.
         </div>
-        <button class="cta">CTA button</button>
+        <!--<button class="cta">CTA button</button>-->
         <a href="#" class="download"></a>
       </div>
       <div class="right"></div>
@@ -45,6 +45,7 @@
 
   .text {
     text-align: left;
+    margin-bottom: 2.5rem;
   }
 
   .cta {
@@ -58,10 +59,11 @@
     font-size: 1.125rem;
     font-weight: 500;
   }
+
   .download {
     width: 10.4rem;
     height: 3.45rem;
-    background: url("./../assets/logo-gp.jpg") center/cover;
+    background: url("./../assets/logo-gp.png") center/contain no-repeat;
   }
 
   .right {

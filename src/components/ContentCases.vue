@@ -2,15 +2,20 @@
   <div class="cases">
 
     <div class="container">
-      <div class="left">
-        <div class="text">
-          React is a "javascript library for building user interfaces" from the fine folks at Facebook & Instagram.
-          It strictly focuses on the "V" in your MVC applications, and touts a blazing fast virtual DOM diff implementation.
-        </div>
-        <button class="cta">CTA button</button>
-        <a href="#" class="download"></a>
+      <div class="case case-1">
+        <div class="image"></div>
+        <div class="description">Case 1 description. What does this case display?</div>
       </div>
-      <div class="right"></div>
+
+      <div class="case case-2">
+        <div class="image"></div>
+        <div class="description">Case 2 description. What does this case display?</div>
+      </div>
+
+      <div class="case case-3">
+        <div class="image"></div>
+        <div class="description">Case 3 description. What does this case display?</div>
+      </div>
     </div>
 
   </div>
@@ -26,14 +31,33 @@
   .cases {
     display: flex;
     justify-content: center;
-    height: 32.2rem;
-    background: #0ED696;
+    height: 30.2rem;
+    background: url("../assets/background.png") center/contain;
   }
 
   .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 50rem;
+  }
+
+  .case {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .image {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    background: #fff;
+  }
+
+  .description {
+    width: 10rem;
+    margin-top: 2rem;
+    color: #fff;
   }
 </style>

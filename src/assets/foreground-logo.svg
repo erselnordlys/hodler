@@ -1,0 +1,45 @@
+<svg width="332" height="338" viewBox="0 0 332 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Chart with shadow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1429 -443)">
+<g id="Chart with shadow">
+<g id="Shadow">
+<use xlink:href="#path0_fill" transform="translate(1464.5 513)" fill="url(#paint0_linear)" fill-opacity="0.75"/>
+</g>
+<g id="Chart" filter="url(#filter0_d)">
+<g id="Group">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 1462.45 603.426)" fill="#FFFFFF"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path2_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 1524.66 541.212)" fill="#FFFFFF"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path3_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 1616.7 504.016)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1429" y="443" width="242" height="242" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(232.482 228.903 157.722 -153.958 -13.9473 118.912)">
+<stop offset="0" stop-color="#263238" stop-opacity="0.15"/>
+<stop offset="0.154696" stop-color="#263238" stop-opacity="0.15"/>
+<stop offset="0.59116" stop-color="#263238" stop-opacity="0.02"/>
+<stop offset="1" stop-color="#263238" stop-opacity="0"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 126.136 219.347L 0 92.5L 61.5 37.5L 95.5 72L 161 0L 304.395 139.596L 312.003 147.205L 313.714 255.981L 274.033 295.662L 177.889 271.099L 126.136 219.347Z"/>
+<path id="path1_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 84.9844 0C 86.6412 0 87.9844 1.34315 87.9844 3L 87.9844 13C 87.9844 14.6569 86.6412 16 84.9844 16L 3 16C 1.34314 16 0 14.6569 0 13L 0 3Z"/>
+<path id="path2_fill" d="M 2.27374e-13 3C 2.27374e-13 1.34315 1.34315 0 3 0L 58.2065 1.13687e-13C 59.8634 1.13687e-13 61.2065 1.34315 61.2065 3L 61.2065 11C 61.2065 12.6569 59.8634 14 58.2065 14L 3 14C 1.34315 14 0 12.6569 0 11L 2.27374e-13 3Z"/>
+<path id="path3_fill" d="M 10.1291 105.647C 8.47632 105.763 7.04276 104.517 6.92718 102.864L 0.00743164 3.90695C -0.108145 2.25414 1.13804 0.820573 2.79085 0.704996L 12.7665 0.00743164C 14.4193 -0.108145 15.8529 1.13804 15.9685 2.79085L 22.8882 101.748C 23.0038 103.401 21.7576 104.834 20.1048 104.95L 10.1291 105.647Z"/>
+</defs>
+</svg>
