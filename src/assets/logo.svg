@@ -1,0 +1,96 @@
+<svg width="288" height="288" viewBox="0 0 288 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>New App Icon Circle</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(97 -794)">
+<g id="New App Icon Circle">
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(-97 794)" fill="#C4C4C4"/>
+</g>
+</mask>
+<g id="New App Icon" mask="url(#mask0_alpha)">
+<path d="M -169 722L 263 722L 263 1154L -169 1154L -169 722Z" fill="#FFFFFF"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -169 722L 263 722L 263 1154L -169 1154L -169 722Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Background" clip-path="url(#clip-0)">
+<path d="M -169 722L 263 722L 263 1154L -169 1154L -169 722Z" fill="#FFFFFF"/>
+<g id="Background Center New">
+<g id="background-multiple">
+<g id="5">
+<use xlink:href="#path1_fill" transform="translate(-169 1024.4)" fill="#0CB37D"/>
+</g>
+<g id="4">
+<use xlink:href="#path1_fill" transform="translate(-169 966.8)" fill="#0DC48A"/>
+</g>
+<g id="3">
+<use xlink:href="#path2_fill" transform="translate(-169 909.2)" fill="#0ED696"/>
+</g>
+<g id="2">
+<use xlink:href="#path2_fill" transform="translate(-169 851.6)" fill="#0FE8A3"/>
+</g>
+<g id="1">
+<use xlink:href="#path2_fill" transform="translate(-169 794)" fill="#10FAAF"/>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -169 722L 263 722L 263 1154L -169 1154L -169 722Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Foreground" clip-path="url(#clip-1)">
+<g id="Chart with shadow">
+<g id="Shadow">
+<use xlink:href="#path3_fill" transform="translate(-33.5 886)" fill="url(#paint6_linear)" fill-opacity="0.75"/>
+</g>
+<g id="Chart" filter="url(#filter0_d)">
+<g id="Group">
+<g id="Rectangle">
+<use xlink:href="#path4_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 -35.5529 976.426)" fill="#FFFFFF"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path5_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 26.6617 914.212)" fill="#FFFFFF"/>
+</g>
+<g id="Subtract">
+<use xlink:href="#path6_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 89.442 836.974)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<g id="finish">
+<use xlink:href="#path7_fill" transform="translate(-169 722)" fill="url(#paint10_radial)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-69" y="816" width="242" height="242" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint6_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(232.482 228.903 157.722 -153.958 -13.9473 118.912)">
+<stop offset="0" stop-color="#263238" stop-opacity="0.15"/>
+<stop offset="0.154696" stop-color="#263238" stop-opacity="0.15"/>
+<stop offset="0.59116" stop-color="#263238" stop-opacity="0.02"/>
+<stop offset="1" stop-color="#263238" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint10_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(405 405 -405 405 115 -290)">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+<path id="path0_fill" d="M 288 144C 288 223.529 223.529 288 144 288C 64.471 288 0 223.529 0 144C 0 64.471 64.471 0 144 0C 223.529 0 288 64.471 288 144Z"/>
+<path id="path1_fill" d="M 0 0L 432 0L 432 57.6L 0 57.6L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 432 0L 432 57.6L 0 57.6L 0 0Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 177.889 271.099L 126.134 219.345L 0 92.5L 61.5 37.5L 95.5 72L 161 0L 304.397 139.599L 312.003 147.205L 313.714 255.981L 274.033 295.662L 177.889 271.099Z"/>
+<path id="path4_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 84.9844 0C 86.6412 0 87.9844 1.34315 87.9844 3L 87.9844 13C 87.9844 14.6569 86.6412 16 84.9844 16L 3 16C 1.34315 16 0 14.6569 0 13L 0 3Z"/>
+<path id="path5_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 58.2065 0C 59.8634 0 61.2065 1.34315 61.2065 3L 61.2065 11C 61.2065 12.6569 59.8634 14 58.2065 14L 3 14C 1.34315 14 0 12.6569 0 11L 0 3Z"/>
+<path id="path6_fill" d="M 59.133 113.272C 57.4802 113.387 56.0467 112.141 55.9311 110.488L 49.0113 11.5313C 48.8958 9.87844 50.1419 8.44487 51.7948 8.3293L 61.7704 7.63173C 63.4232 7.51615 64.8568 8.76233 64.9724 10.4152L 71.8921 109.372C 72.0077 111.025 70.7615 112.459 69.1087 112.574L 59.133 113.272Z"/>
+<path id="path7_fill" d="M 0 0L 432 0L 432 432L 0 432L 0 0Z"/>
+</defs>
+</svg>
